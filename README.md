@@ -7,6 +7,6 @@
 * Joey Biancardi
 * Alessadnro Spagnuolo
 * Giairo Mauro
-## Problema
-sd,jfhksjdf
-
+## Info
+**Inizio: ** 10.11.2017
+**Consegna: ** 19.01.2018
